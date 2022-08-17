@@ -1,0 +1,122 @@
+@media only screen and (max-width: 600px) {
+
+
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    margin-right: 0;
+    padding-bottom: 20px;
+    position: absolute;
+    align-items: center;
+    top: 0px;
+    justify-content: space-evenly;
+    width: 100%;
+    font-size: 18px;
+    height: 40vh;
+    background: var(--bgcolor);
+    transform: translateY(-500px);
+    transition: all .5s ease;
+  }
+
+  nav ul li {
+    list-style: decimal-leading-zero inside;
+  }
+
+  #menu {
+    display: block;
+    z-index: 2;
+  }
+
+  .socialMediaCont {
+    left: 0;
+  }
+
+  .socialMediaCont hr {
+    left: -6px;
+  }
+
+  .myName,
+  .myDetailsTittle {
+    font-size: 14px;
+  }
+
+  .nameTittle,
+  .myDetails,
+  .AboutText p,
+  .serviceOption p,
+  .toolSubTittle,
+  .language p,
+  .contactCont p{
+    font-size: 10px;
+  }
+
+  .myDetails {
+    line-height: 3;
+    margin-right: 0;
+  }
+
+  .honeCont_btns{
+    flex-direction: column-reverse;
+  }
+
+  .honeCont_btns a{
+    width: fit-content;
+  }
+
+
+  .AboutTitle,
+  .serviceTittle,
+  .contactTittle{
+    font-size: 20px;
+  }
+
+
+  .AboutText {
+    font-size: 14px;
+    width: 100%;
+  }
+  .AboutMainCont {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .AboutTextBox {
+    width: 100%;
+  }
+
+  .AboutImage {
+    width: auto;
+    /* display:none; */
+  }
+  .AboutImageBox{
+    margin: auto;
+  }
+
+
+  .serviceBox {
+    flex-direction: column;
+    align-items: center;
+}
+.serviceOption h1{
+  font-size: 16px;
+}
+
+  .language{
+    width: 40%;
+    
+  }
+
+  .contactCont{
+    width: 80%;
+  }
+
+  .contactTittle{
+    font-size: 20px;
+  }
+
+  .footer{
+    font-size: 12px;
+  }
+
+}

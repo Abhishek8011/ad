@@ -1,0 +1,69 @@
+
+@keyframes blink {
+    50%{
+        border-color: transparent;
+    }
+}
+
+
+.effect_revalup{
+    transform: translateY(60%);
+    opacity: 0;
+    transition: all .8s ease;
+
+}
+
+.effect_revalupActive{
+    transform: translateY(0px);
+    opacity: 1;
+}
+
+.effect_revalLeft{
+    transform: translateX(-20%);
+    opacity: 0;
+    transition: all .8s ease;
+
+}
+
+.effect_revalLeftActive{
+    transform: translateX(0px);
+    opacity: 1;
+
+}
+
+.effect_revalRight{
+    transform: translateX(20%);
+    opacity: 0;
+    transition: all .8s ease;
+
+}
+.effect_revalRightActive{
+    transform: translateX(0px);
+    opacity: 1;
+
+}
+.effect_visible{
+    opacity: 0;
+    transition: all .8s ease;
+
+}
+.effect_visibleActive{
+    opacity: 1;
+
+}
+
+.effect_hideup{
+    transform: translateY(-10%);
+    opacity: 0;
+    transition: all .8s ease;
+}
+
+.effect_hideupActive{
+    transform: translateY(0px);
+    opacity: 1;
+}
+
+.socialshow_active{
+    opacity: 1;
+    transform: translateX(0);
+}
