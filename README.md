@@ -21,13 +21,13 @@ you build a new app for Android or port your existing iOS app to Android.
 ##Product Design
 >I work with certain design tools to create high-fidelity designs and prototypes. I design accessible and usable products which aid business growth.
 
->Here are a few technologies I’ve been working with recently:
-*JavaScript (ES6+) 
-*React -Node.js 
-*WordPress 
-*React Native 
-*php 
-*BootStrap
+#Here are a few technologies I’ve been working with recently:
+>1.JavaScript (ES6+) 
+>2.React -Node.js 
+>3.WordPress 
+>4.React Native 
+>5.php 
+>6.BootStrap
 
 
 
