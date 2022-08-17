@@ -568,7 +568,7 @@ nav i{
 .footer {
     margin-top: -30px;
     height: 40px; 
-    box-shadow: 0px -1px 20px .001px var(--otherColor);
+    /* box-shadow: 0px -1px 20px .001px var(--otherColor); */
     display: flex;
     text-transform: capitalize;
     align-items: center;
