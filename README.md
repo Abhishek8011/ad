@@ -23,11 +23,12 @@ you build a new app for Android or port your existing iOS app to Android.
 
 #Here are a few technologies I’ve been working with recently:
 >1.JavaScript (ES6+) 
->2.React -Node.js 
->3.WordPress 
->4.React Native 
->5.php 
->6.BootStrap
+>2.React 
+>3.Node.js 
+>4.WordPress 
+>5.React Native 
+>6.php 
+>7.BootStrap
 
 
 
