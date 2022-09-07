@@ -387,7 +387,7 @@ nav i{
     width: 200px;
     height: 220px;
     border-radius: 3px;
-    filter:grayscale(1);
+   /* filter:grayscale(1);*/
     transition: filter .3s ease-in;
 
 }
